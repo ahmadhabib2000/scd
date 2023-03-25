@@ -1,0 +1,17 @@
+mail 
+gmail: alibhaiali21221@gmail.com
+PASSWORD: 987654321*aB 
+
+DOMAIN
+namecheap.COM
+ID: alibaba121212123
+PASSWORD: 987654321*Ab
+
+HOSTING
+GMAIL: alibhaiali21221@gmail.com
+PASSWORD: 987654321*Ab
+
+wordpress
+URL: http://jobcareershop.com/wp-admin/
+username: admin 
+PASSWORD: admin*Alibaba12
